@@ -21,7 +21,7 @@ global TopY := 11
 global blacklist := []
 
 global IconDescX1 := 972
-global IconDescY1 := 702ImageSearch
+global IconDescY1 := 702
 global IconDescX2 := 2153 ;coordinates to scan for backup checks for (pirate fleet, elite, etc)
 global IconDescY2 := 1334
 
