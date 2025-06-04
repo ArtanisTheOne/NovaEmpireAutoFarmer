@@ -14,6 +14,6 @@ This can be used as a base to integrate into a farmer which does repairs or just
 
 Please note, the images in the `./images` folder may need to be re-taken on your machine.
 
-> **IMPORTANT**: THIS SCRIPT IS ONLY GUARANTEED TO WORK WITH THE STEAM VERSION OF NOVA EMPIRE
+> **IMPORTANT**: THIS SCRIPT IS ONLY GUARANTEED TO WORK WITH THE STEAM VERSION OF NOVA EMPIRE. FURTHERMORE, COORDS ARE HARDCODED FOR A 4K RES SCREEN [changes required to dynamically change based on screen size]
 
 > **This script is provided as-is, if you wish, contact me on discord (art4nis) for any development questions.**
